@@ -1,2 +1,0 @@
-Hi, this is practicing remote repository uploading.
-I added the 2nd line at the remote repository
